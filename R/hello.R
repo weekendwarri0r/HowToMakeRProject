@@ -7,7 +7,6 @@
 #' hello("Bob")
 #' hello("My friend")
 #' }
-#' @export
 
 hello <- function(name){
   print(paste("Hello, ", name, "!", sep=""))
