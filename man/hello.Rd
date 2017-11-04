@@ -16,6 +16,8 @@ chr
 Say "Hello" to arg
 }
 \examples{
+\dontrun{
 hello("Bob")
 hello("My friend")
+}
 }
